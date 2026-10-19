@@ -1,0 +1,1 @@
+SELECT title, price FROM genre = 'Tech' AND price > 30;
